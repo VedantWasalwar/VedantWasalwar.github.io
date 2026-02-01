@@ -33,6 +33,4 @@ website design, layout structuring, and basic e-commerce concepts.
 
 ---
 
-## 📌 Note
-This is a static website and does not include backend or payment gateway functionality.
 
